@@ -13,7 +13,7 @@ Metrics:
 - Malicious Flows allowed into our honeynet (AzureNetworkAnalytics_CL)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://imgur.com/a/MJqxT9k)
+<img width="604" alt="Screenshot 2024-01-09 at 21 40 16" src="https://github.com/chrishernandez9/Cloud-SOC/assets/156137903/7095acf5-7501-4021-9009-16b4781cfaa5">
 
 ## Architecture After Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
