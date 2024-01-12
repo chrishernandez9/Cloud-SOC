@@ -23,7 +23,7 @@ Metrics:
 The architecture of the honeynet in Azure consists of the following components:
 - A Virtual Network (VNet)
 - Multiple Network Security Groups (NSGs)
-- Some Virtual Machines (2 windows, 1 linux)
+- 3 Virtual Machines (2 windows, 1 linux)
 - A Log Analytics Workspace
 - An Azure Key Vault
 - An Azure Storage Account
